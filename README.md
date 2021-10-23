@@ -1,2 +1,3 @@
 # ThemeChange
- Changing theme for the abp app.
+
+ This is a sample repo to customize the Theme in the Abp App.
