@@ -104,6 +104,8 @@ namespace ThemeChange.Web
                     bundle =>
                     {
                         bundle.AddFiles("/global-styles.css");
+                        //bundle.AddFiles("/styles/sb-admin-2.min.css");
+                        bundle.AddFiles("/styles/material-kit.min.css");
                     }
                 );
             });
